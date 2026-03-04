@@ -43,6 +43,7 @@ npx expo build:android
 # veya EAS Build:
 npx eas build --platform android
 ```
+🎥 Video açıklaması (https://www.youtube.com/watch?v=6ivAm63mCIE)
 
 ## 🎯 Hedef Kullanıcı Kitlesi
 Kırsal bölgelerdeki hastaları değerlendiren telekonsültan diş hekimleri ve sahada görev yapan sağlık ekipleri.
